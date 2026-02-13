@@ -39,7 +39,7 @@ This is what Googlebot indexes. This is what ChatGPT processes. This is what eve
 
 ### Scale of the challenge:
 
-- **70% of modern websites remain invisible to AI crawlers** — [Spruik research, December 2025](https://spruik.ai). GPTBot, ClaudeBot, PerplexityBot do not execute JavaScript. This is a technical limitation, not a choice.
+- **70% of modern websites remain invisible to AI crawlers** — GPTBot, ClaudeBot, PerplexityBot do not execute JavaScript. This is a technical limitation, not a choice.
 - **Vercel's published research validates this issue** — The company commercializing Next.js has published data demonstrating that AI crawlers cannot process JavaScript-rendered content. They documented the technical limitation, then positioned their framework as the solution.
 - **10M+ projects on Lovable alone**, plus millions across Bolt.new, v0, Cursor, and Replit—all generating crawler-invisible SPAs
 - **100,000+ new React applications daily** across AI platforms, each launched without search engine visibility
